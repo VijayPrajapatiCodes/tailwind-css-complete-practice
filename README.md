@@ -1,7 +1,6 @@
 # 🚀 Tailwind CSS Complete Learning Project
 
-[![React Complete Learning Project Demo](https://via.placeholder.com/1200x600/1e3a8a/ffffff?text=Tailwind+CSS+Complete+Learning+Project+Demo)](https://github.com/VijayPrajapatiCodes/React-Projects#-project-demo)
-[![Mobile Responsive Demo](https://via.placeholder.com/600x1200/1e40af/ffffff?text=Mobile+Responsive+Demo)](https://github.com/VijayPrajapatiCodes/React-Projects#-project-demo)
+
 
 A **production-ready Tailwind CSS project** demonstrating mastery of Tailwind utilities through practical, real-world implementation. Built with modern best practices, responsive design, and utility-first architecture.
 
