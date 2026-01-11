@@ -4,8 +4,6 @@
 
 A **production-ready Tailwind CSS project** demonstrating mastery of Tailwind utilities through practical, real-world implementation. Built with modern best practices, responsive design, and utility-first architecture.
 
-## ✨ Project Demo
-[Live Demo](https://your-deployment-link.com) | [GitHub Repository](https://github.com/VijayPrajapatiCodes/React-Projects)
 
 ## 📖 Table of Contents
 - [📌 About the Project](#-about-the-project)
@@ -93,11 +91,6 @@ The user interface features a **modern SaaS-inspired design system** built entir
 - **PurgeCSS Integration** - <10kB production CSS bundle
 - **Tailwind CLI** - Development workflow optimization
 
-## 📱 Screenshots
-
-| Desktop View | Tablet View | Mobile View |
-|--------------|-------------|-------------|
-| ![Desktop](https://via.placeholder.com/1200x800/1e40af/ffffff?text=Desktop+View) | ![Tablet](https://via.placeholder.com/768x1024/1e3a8a/ffffff?text=Tablet+View) | ![Mobile](https://via.placeholder.com/375x667/1e40af/ffffff?text=Mobile+View) |
 
 ## 🚀 Quick Start
 
