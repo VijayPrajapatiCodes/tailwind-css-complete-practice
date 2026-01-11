@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+@import "tailwindcss";
+@utility container{
+    margin:auto
+}
+
+@layer components{
+    .btn{
+        @apply border border-slate-400 rounded px-3 py-1.5  hover:bg-slate-100 cursor-pointer transition-transform duration-100 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-slate-500
+    }
+     .btn-primary{
+        @apply bg-blue-500 hover:bg-blue-400 text-white border-blue-500
+    }
+     .btn-Secondary{
+        @apply bg-slate-500 hover:bg-slate-400 text-white border-slate-500
+    }
+    .btn-Success{
+        @apply bg-green-500 hover:bg-green-400 text-white border-green-500
+    }
+     .btn-Success{
+        @apply bg-green-500 hover:bg-green-400 text-white border-green-500
+    }
+      .btn-Warning{
+        @apply bg-yellow-500 hover:bg-yellow-400 text-white border-yellow-500 
+    }
+     .btn-Danger{
+        @apply bg-red-500 hover:bg-red-400 text-white border-red-500
+    }
+       .btn-Info{
+        @apply bg-cyan-500 hover:bg-cyan-400 text-white border-cyan-500
+    }
+     .btn-Dark{
+        @apply bg-black hover:bg-black text-white border-black 
+    }
+     .btn-Basic{
+        @apply bg-white hover:bg-white text-black border-black
+
+}
+  .btn-Link{
+        @apply bg-transparent text-blue-500 underline hover:text-blue-800 cursor-pointer
+
+}
+@layer utilities{
+    .font-moondance{
+        font-family: 'Moon Dance',cursive;
+    }
+}
+}
