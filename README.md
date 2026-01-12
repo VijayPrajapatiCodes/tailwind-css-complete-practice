@@ -97,7 +97,7 @@ The user interface features a **modern SaaS-inspired design system** built entir
 ```bash
 # Clone the repository
 git clone https://github.com/VijayPrajapatiCodes/tailwind-css-practice.git
-cd React-Projects
+cd tailwind-css-practice
 
 # Install dependencies
 npm install
