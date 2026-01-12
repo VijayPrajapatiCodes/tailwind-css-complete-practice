@@ -103,7 +103,7 @@ cd tailwind-css-practice
 npm install
 
 # Start development server
-npm run dev
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 # Build for production
 npm run build
